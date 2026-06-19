@@ -1,0 +1,21 @@
+# Core ML
+lightgbm>=4.0
+catboost>=1.2
+scikit-learn>=1.3
+numpy>=1.24
+pandas>=2.0
+
+# NLP / Embeddings
+sentence-transformers>=2.7
+torch>=2.0
+
+# Explainability
+shap>=0.44
+
+# App
+streamlit>=1.32
+pyngrok>=7.0
+
+# Data loading
+xlrd>=2.0
+openpyxl>=3.1
